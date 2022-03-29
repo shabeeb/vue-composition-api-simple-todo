@@ -6,6 +6,14 @@
           <div class="col col-lg-9 col-xl-7">
             <div class="card rounded-3">
               <div class="card-body p-4">
+                <div>
+                  <a
+                    href="http://shabeebk.com/blog/simple-vue-composition-api-example-with-todo-app/"
+                    target="_sb"
+                    class="link"
+                    >Read Full Blog
+                  </a>
+                </div>
                 <h4 class="text-center my-3 pb-3">
                   Simple Vue 2 with composition-api To Do App
                 </h4>
@@ -122,6 +130,9 @@ li {
 }
 a {
   color: #37dd92;
+}
+a.link {
+  color: #3771dd;
 }
 .stricked {
   text-decoration: line-through;
