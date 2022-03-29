@@ -1,4 +1,6 @@
-# vue-composition-api-simple-todo
+# Vue composition api with example TODO app 
+
+refer this blog http://shabeebk.com/blog/simple-vue-composition-api-example-with-todo-app/
 
 ## Project setup
 ```
