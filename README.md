@@ -1,8 +1,8 @@
 # Vue composition api with example TODO app 
 
-Refer this blog http://shabeebk.com/blog/simple-vue-composition-api-example-with-todo-app/
+Refer this blog: http://shabeebk.com/blog/simple-vue-composition-api-example-with-todo-app/
 
-For demo: https://vue-composition-api-simple-todo.pages.dev/
+For demo: https://vue3-composition-api.pages.dev/
 
 ## Project setup
 ```
